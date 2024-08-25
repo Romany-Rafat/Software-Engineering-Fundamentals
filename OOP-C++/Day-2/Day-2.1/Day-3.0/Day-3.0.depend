@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1724551287 source:c:\users\pro__romany\desktop\mygithub\software-engineering-fundamentals\oop-c++\day-2\day-2.1\day-3.0\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+
